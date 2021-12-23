@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@react/popout": ["../react-popout/lib"],
+      "@myodex/gui": ["../swap-ui/example/src"]
+    },
+  },
+}
+
